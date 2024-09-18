@@ -2,7 +2,6 @@
 Hello, my name is Adrián Alvarez. I am a software engineering student and I am learning Kotlin. I will focus on mobile app development after learning Kotlin, and then I will move on to Swift for iOS.
 :flag_colombia:
 - 🌱 I’m currently learning Kotlin
-- 🇨🇴
 
 <!--
 **Cordobot/Cordobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
