@@ -6,11 +6,16 @@
 
 <br>
 
+###  &nbsp;Learning
+
+![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)&nbsp;
+![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)&nbsp;
+
 ### ⚔️ &nbsp;Technology
 
-[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=purple)](https://github.com/Kotlin-Android-Open-Source)
-[![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source)
-[![Swift](https://img.shields.io/badge/swift-%E24462.svg?&style=for-the-badge&logo=swift&logoColor=orange)](https://github.com/swift-ios-Open-Source)
+[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=purple)](https://github.com/Kotlin-Android-Open-Source)&nbsp;
+[![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source)&nbsp;
+[![Swift](https://img.shields.io/badge/swift-%E24462.svg?&style=for-the-badge&logo=swift&logoColor=orange)](https://github.com/swift-ios-Open-Source)&nbsp;
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <br>
 
