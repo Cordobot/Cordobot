@@ -1,4 +1,4 @@
-<div align="center"><h1>Hello👋, my name is <span style="color:008000;">Adrián Alvarez<span></h1></div>
+<div align="center"><h1>Hello👋, my name is Adrián Alvarez</h1></div>
 
 ### 👉 &nbsp;About me 
 
