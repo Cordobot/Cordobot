@@ -6,7 +6,7 @@
 
 ### ⚔️ &nbsp;Technology
 
-[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Kotlin-Android-Open-Source)
+[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=purple)](https://github.com/Kotlin-Android-Open-Source)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source)
 [![Swift](https://img.shields.io/badge/swift-%B125EA.svg?&style=for-the-badge&logo=swift&logoColor=orange)](https://github.com/swift-ios-Open-Source)
 
