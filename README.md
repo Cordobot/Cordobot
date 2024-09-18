@@ -1,6 +1,6 @@
 <div align="center"><h1>Hello👋, my name is Adrián Alvarez</h1></div>
 
-<h4>Sobre mi</h4>
+### 👉 &nbsp;About me 
 
 <div font-size>I am a software engineering student and I am learning Kotlin. I will focus on mobile app development after learning Kotlin for Android, and then I will move on to Swift for iOS.</div>
 
