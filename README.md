@@ -3,19 +3,20 @@
 ### 👉 &nbsp;About me 
 
 <div font-size>I am a software engineering student and I am learning Kotlin. I will focus on mobile app development after learning Kotlin for Android, and then I will move on to Swift for iOS.</div>
-
+<br>
 ### ⚔️ &nbsp;Technology
 
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=purple)](https://github.com/Kotlin-Android-Open-Source)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source)
 [![Swift](https://img.shields.io/badge/swift-%E24462.svg?&style=for-the-badge&logo=swift&logoColor=orange)](https://github.com/swift-ios-Open-Source)
-
+<br>
 ### 🧰 &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
