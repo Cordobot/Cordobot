@@ -1,5 +1,5 @@
-## Hi there 👋
-<div style="center">Hello, my name is Adrián Alvarez. I am a software engineering student and I am learning Kotlin. I will focus on mobile app development after learning Kotlin, and then I will move on to Swift for iOS.</div>
+<div><h1>Hello👋, my name is Adrián Alvarez</h1></div>
+<div style="center">. I am a software engineering student and I am learning Kotlin. I will focus on mobile app development after learning Kotlin, and then I will move on to Swift for iOS.</div>
 
 - 🌱 I’m currently learning Kotlin
 
