@@ -4,7 +4,7 @@
 
 <div font-size>I am a software engineering student and I am learning Kotlin. I will focus on mobile app development after learning Kotlin for Android, and then I will move on to Swift for iOS.</div>
 
-###  &nbsp;Technology
+### ⚔️ &nbsp;Technology
 
 [![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/Kotlin-Android-Open-Source)
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")](https://github.com/Kotlin-Android-Open-Source)
