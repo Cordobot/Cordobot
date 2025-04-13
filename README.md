@@ -62,21 +62,6 @@
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 1. Aplicación Móvil
-**Tecnologías:** Kotlin, Android Studio, Jetpack Compose  
-[![Ver en GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cordobot/proyecto-android)
-
-### 2. Sitio Web
-**Tecnologías:** React, Node.js, MongoDB  
-[![Ver en GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cordobot/proyecto-web)
-
-### 3. API REST
-**Tecnologías:** Python, Django, PostgreSQL  
-[![Ver en GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cordobot/proyecto-api)
-
----
 
 ## 📫 Contacto
 
@@ -86,9 +71,7 @@
   <a href="https://www.linkedin.com/in/adnalvarez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/cordobot" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
+
   <a href="https://wa.me/573238087188" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
