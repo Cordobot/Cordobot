@@ -1,16 +1,107 @@
-## Hi there 👋
+# 📱 Adrián Alvarez - Desarrollador Android
 
-<!--
-**Cordobot/Cordobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! 👋 Soy **Adrián Alvarez**, un apasionado **Ingeniero de Software** especializado en desarrollo de aplicaciones móviles para Android. Mi enfoque principal es crear aplicaciones eficientes, modernas y escalables utilizando tecnologías como Kotlin y Jetpack Compose.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías y Habilidades
+
+### 📱 Desarrollo Android
+<p align="left">
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" alt="Jetpack Compose">
+  <img src="https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform">
+</p>
+
+### 🏗 Arquitectura y Patrones
+<p align="left">
+  <img src="https://img.shields.io/badge/MVVM-5E17EB?style=for-the-badge&logo=android&logoColor=white" alt="MVVM">
+  <img src="https://img.shields.io/badge/Clean_Architecture-6DB33F?style=for-the-badge&logo=android&logoColor=white" alt="Clean Architecture">
+</p>
+
+### 📦 Librerías y Herramientas
+<p align="left">
+  <img src="https://img.shields.io/badge/Retrofit-2C3E50?style=for-the-badge&logo=square&logoColor=white" alt="Retrofit">
+  <img src="https://img.shields.io/badge/Room-3498DB?style=for-the-badge&logo=android&logoColor=white" alt="Room">
+  <img src="https://img.shields.io/badge/Hilt-DD0031?style=for-the-badge&logo=dagger&logoColor=white" alt="Hilt">
+  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle">
+</p>
+
+### 🧪 Testing
+<p align="left">
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit">
+</p>
+
+### 🌐 Otras Tecnologías
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+</p>
+
+---
+
+## 💼 Experiencia Profesional
+
+**Desarrollador Android**  
+📍 1 año de experiencia en el desarrollo de aplicaciones móviles  
+🔹 Especializado en Kotlin y Jetpack Compose  
+🔹 Experiencia en todas las etapas del ciclo de vida de desarrollo  
+🔹 Integración de APIs REST con Retrofit  
+🔹 Manejo de bases de datos locales con Room  
+🔹 Implementación de inyección de dependencias con Hilt  
+
+---
+
+## 🧠 Habilidades Blandas
+
+- 👥 Trabajo en equipo  
+- 💬 Comunicación efectiva  
+- 🧩 Resolución de problemas  
+- ⏱ Gestión del tiempo  
+- 📚 Aprendizaje continuo  
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 1. Aplicación Móvil
+**Tecnologías:** Kotlin, Android Studio, Jetpack Compose  
+[![Ver en GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cordobot/proyecto-android)
+
+### 2. Sitio Web
+**Tecnologías:** React, Node.js, MongoDB  
+[![Ver en GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cordobot/proyecto-web)
+
+### 3. API REST
+**Tecnologías:** Python, Django, PostgreSQL  
+[![Ver en GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cordobot/proyecto-api)
+
+---
+
+## 📫 Contacto
+
+¡No dudes en contactarme para oportunidades de colaboración o trabajo!
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adnalvarez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/cordobot" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://wa.me/573238087188" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
+
+---
+
+## 📄 Descarga mi CV
+
+[![Descargar CV](https://img.shields.io/badge/Descargar_CV-4285F4?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](https://github.com/cordobot/portfolio/raw/main/assets/CV-Adrian-Alvarez.pdf)
+
+---
+
+<p align="center">
+  © 2025 Adrián Alvarez - Todos los derechos reservados
+</p>
