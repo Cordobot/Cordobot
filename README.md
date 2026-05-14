@@ -1,8 +1,9 @@
 # 📱 Adrián Alvarez — Android Developer
 
-Hola 👋 Soy un Ingeniero de Software especializado en desarrollo Android nativo.
-Construyo apps modernas, escalables y bien arquitecturadas con Kotlin y Jetpack Compose.
-
+Soy Adrián Alvarez, Ingeniero de Software especializado en desarrollo de aplicaciones Android nativas. Me apasiona construir apps eficientes, escalables y con buena experiencia de usuario usando el ecosistema moderno de Android.
+ 
+Mi stack principal es Kotlin + Jetpack Compose, aplicando arquitecturas sólidas como MVVM y Clean Architecture, con manejo de datos locales mediante Room, consumo de APIs REST con Retrofit, inyección de dependencias con Hilt, y programación asíncrona con Coroutines y Flow.
+Lo que me diferencia: combino solidez técnica con visión de producto — no solo escribo código, diseño soluciones pensando en el usuario final.
 ---
 
 ## 🛠 Tecnologías y Habilidades
