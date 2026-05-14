@@ -1,6 +1,7 @@
-# 📱 Adrián Alvarez - Desarrollador Android
+# 📱 Adrián Alvarez — Android Developer
 
-¡Hola! 👋 me llamo **Adrián Alvarez**, un apasionado **Ingeniero de Software** especializado en desarrollo de aplicaciones móviles para Android e IOS. Mi enfoque principal es crear aplicaciones eficientes, modernas y escalables utilizando tecnologías como Kotlin, Kotlin Multiplatform y Flutter.
+Hola 👋 Soy un Ingeniero de Software especializado en desarrollo Android nativo.
+Construyo apps modernas, escalables y bien arquitecturadas con Kotlin y Jetpack Compose.
 
 ---
 
