@@ -44,7 +44,7 @@ Lo que me diferencia: combino solidez técnica con visión de producto — no so
 ## 💼 Experiencia Profesional
 
 **Desarrollador Android**  
-📍 1 año de experiencia en el desarrollo de aplicaciones móviles  
+📍 4 años de experiencia en el desarrollo de aplicaciones móviles  
 🔹 Especializado en Kotlin y Jetpack Compose  
 🔹 Experiencia en todas las etapas del ciclo de vida de desarrollo  
 🔹 Integración de APIs REST con Retrofit  
