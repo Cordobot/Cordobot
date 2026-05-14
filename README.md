@@ -4,7 +4,6 @@ Soy Adrián Alvarez, Ingeniero de Software especializado en desarrollo de aplica
  
 Mi stack principal es Kotlin + Jetpack Compose, aplicando arquitecturas sólidas como MVVM y Clean Architecture, con manejo de datos locales mediante Room, consumo de APIs REST con Retrofit, inyección de dependencias con Hilt, y programación asíncrona con Coroutines y Flow.
 Lo que me diferencia: combino solidez técnica con visión de producto — no solo escribo código, diseño soluciones pensando en el usuario final.
----
 
 ## 🛠 Tecnologías y Habilidades
 
