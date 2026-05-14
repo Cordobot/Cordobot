@@ -48,12 +48,12 @@ just write code, I design solutions with the end user in mind.
 
 ## 💼 Professional Experience
 
-**Android Developer**
-📍 4 years of experience in mobile app development
-🔹 Specialized in Kotlin and Jetpack Compose
-🔹 Experience across all stages of the development lifecycle
-🔹 REST API integration with Retrofit
-🔹 Local database management with Room
+**Android Developer**  
+📍 4 years of experience in mobile app development  
+🔹 Specialized in Kotlin and Jetpack Compose  
+🔹 Experience across all stages of the development lifecycle  
+🔹 REST API integration with Retrofit  
+🔹 Local database management with Room  
 🔹 Dependency injection implementation with Hilt
 
 ---
